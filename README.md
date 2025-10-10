@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Harsh!
 
-<!--
-**harshkr045/harshkr045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Android App Developer | Kotlin | Android Studio | Firebase | XML 
+🎓 Student passionate about building mobile solutions and improving UI/UX experiences.  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Android Studio | Kotlin | XML  
+- Firebase | REST APIs  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Projects
+- [TODO List App](app github link)
+- [Math Game App](app github link)
+
+## 📫 Connect with Me
+[LinkedIn](www.linkedin.com/in/harsh-kumar-648392334) | [Email](demo63029@gmail.com)

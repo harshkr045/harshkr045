@@ -9,8 +9,8 @@
 - Git & GitHub  
 
 ## 📱 Projects
-- [TODO List App](app github link)
-- [Math Game App](https://github.com/harshkr045/MathGameApp.git)
+- [TODO List App][app github link](https://github.com/harshkr045/ToDoList.git)
+- [Math Game App][app github link](https://github.com/harshkr045/MathGameApp.git)
 
 ## 📫 Connect with Me
 [LinkedIn](www.linkedin.com/in/harsh-kumar-648392334) | [Email](demo63029@gmail.com)

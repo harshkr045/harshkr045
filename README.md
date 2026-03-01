@@ -13,4 +13,4 @@
 - [Math Game App][app github link](https://github.com/harshkr045/MathGameApp.git)
 
 ## 📫 Connect with Me
-[LinkedIn](www.linkedin.com/in/harsh-kumar-648392334) | [Email](demo63029@gmail.com)
+[LinkedIn](www.linkedin.com/in/harsh-kumar-648392334) | [Email](bytebrain2512@gmail.com)

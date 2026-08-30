@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Harsh!
 
-💻 Android App Developer | Kotlin | Android Studio | Firebase | XML 
+💻 Android App Developer | Java | Kotlin | Jetpack Compost | Coroutines | REST APIs | RetroFit | Android Studio | Firebase | XML 
 🎓 Student passionate about building mobile solutions and improving UI/UX experiences.  
 
 ## 🚀 Skills
-- Android Studio | Kotlin | XML  
+- Android Studio | Java | Kotlin | Jetpack Compost | Coroutines | XML  
 - Firebase | REST APIs  
 - Git & GitHub  
 

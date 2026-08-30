@@ -9,8 +9,9 @@
 - Git & GitHub  
 
 ## 📱 Projects
-- [TODO List App][app github link](https://github.com/harshkr045/ToDoList.git)
-- [Math Game App][app github link](https://github.com/harshkr045/MathGameApp.git)
+- [Tie Us App][app github link](https://github.com/harshkr045/Tie_Us.git)
+- [AptiHub App][app github link](https://github.com/harshkr045/AptiHub.git)
+- [Flag Quest App][app github link](https://github.com/harshkr045/Flag_Quest.git)
 
 ## 📫 Connect with Me
 [LinkedIn](www.linkedin.com/in/harsh-kumar-648392334) | [Email](bytebrain2512@gmail.com)
